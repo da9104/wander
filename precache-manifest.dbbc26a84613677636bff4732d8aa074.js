@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/wander/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "04f900c3504b12a50c1d",
+    "revision": "b0c50d4922ddfe27260e",
     "url": "/wander/static/css/main.0734ec62.chunk.css"
   },
   {
@@ -20,16 +20,20 @@ self.__precacheManifest = [
     "url": "/wander/static/js/2.b4abad05.chunk.js"
   },
   {
-    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
-    "url": "/wander/static/media/outline-icons.ef60a4f6.woff"
-  },
-  {
     "revision": "cd6c777f1945164224dee082abaea03a",
     "url": "/wander/static/media/outline-icons.cd6c777f.woff2"
   },
   {
+    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
+    "url": "/wander/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/wander/static/media/outline-icons.701ae6ab.eot"
+  },
+  {
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/wander/static/media/flags.9c74e172.png"
   },
   {
     "revision": "ad97afd3337e8cda302d10ff5a4026b8",
@@ -40,12 +44,8 @@ self.__precacheManifest = [
     "url": "/wander/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "9c74e172f87984c48ddf5c8108cabe67",
-    "url": "/wander/static/media/flags.9c74e172.png"
-  },
-  {
-    "revision": "04f900c3504b12a50c1d",
-    "url": "/wander/static/js/main.6f3a028e.chunk.js"
+    "revision": "b0c50d4922ddfe27260e",
+    "url": "/wander/static/js/main.bcb55812.chunk.js"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/wander/static/media/brand-icons.a046592b.woff"
   },
   {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/wander/static/media/icons.b87b9ba5.ttf"
-  },
-  {
     "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
     "url": "/wander/static/media/icons.8e3c7f55.eot"
+  },
+  {
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/wander/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/wander/static/css/2.f4b97f8c.chunk.css"
   },
   {
-    "revision": "8f067be1cfb2b0ef88930ee7521f7c5b",
+    "revision": "3e1246bf8944ea568b5659c555bf9e2a",
     "url": "/wander/index.html"
   }
 ];
